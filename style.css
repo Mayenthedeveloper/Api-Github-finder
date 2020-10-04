@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  h1, p{
+    text-align: center;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .container {
+    max-width: 90%;
+    margin: 0 auto;
+  }
+  
+  .form {
+    max-width: 400px;
+    padding: 10px;
+    border: 1px solid black;
+    background: burlywood;
+  }
+  
+  section {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  
